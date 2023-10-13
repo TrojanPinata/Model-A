@@ -1,0 +1,127 @@
+### Footprint positions - created on Fri Oct 13 14:32:58 2023 ###
+### Printed by KiCad version 7.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref        Val                   Package                                                                    PosX       PosY       Rot  Side
+                                                                                                          373.5750  -124.0550    0.0000  top
+                                                                                                          213.2900  -144.0550    0.0000  top
+                                                                                                          245.1000   -44.7350    0.0000  top
+                                                                                                          184.9750  -102.5950    0.0000  top
+                                                                                                          330.5750   -44.7850    0.0000  top
+                                                                                                          138.2500  -144.0550    0.0000  top
+                                                                                                          352.3850   -45.0650    0.0000  top
+                                                                                                          332.0750  -142.4250    0.0000  top
+                                                                                                          156.0900   -43.7200    0.0000  top
+                                                                                                          356.8200  -130.5850    0.0000  top
+                                                                                                           39.9700   -97.9150    0.0000  top
+                                                                                                           40.6700   -39.2500    0.0000  top
+                                                                                                          373.4550  -160.7400    0.0000  top
+                                                                                                           40.0650  -161.8800    0.0000  top
+                                                                                                          330.3500  -102.6100    0.0000  top
+C1           0.1u                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            366.0300   -45.5925   90.0000  top
+C2           0.1u                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            363.6350   -45.5925   90.0000  top
+C3           22p                   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            359.7000   -69.6050  -90.0000  top
+C4           0.1u                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            361.3250   -45.6025   90.0000  top
+C5           0.1u                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            359.0600   -45.6150   90.0000  top
+C6           4.7u                  C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            356.7600   -45.6325   90.0000  top
+C7           22p                   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            368.5200   -69.6000  -90.0000  top
+C8           1u                    C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                            352.1300   -56.5775  -90.0000  top
+CLOCK        XTAL_GND              Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm                            364.1000   -69.6650    0.0000  top
+D81          D                     D_SOD-123                                                              352.5700   -50.7850   90.0000  top
+MCU          ATMEGA32U4            QFP44                                                                  364.7250   -58.9800    0.0000  top
+OLED         I2C                   PinSocket_1x04_P2.54mm_Vertical                                        360.9450   -82.9500   90.0000  top
+R1           10k                   R_1206_3216Metric                                                      357.9650   -40.3375   90.0000  top
+R2           75R                   R_1206_3216Metric                                                      353.0100   -40.3700  -90.0000  top
+R3           75R                   R_1206_3216Metric                                                      355.4250   -40.3500  -90.0000  top
+R4           10k                   R_1206_3216Metric                                                      368.7750   -45.9550   90.0000  top
+R5           10k                   R_1206_3216Metric                                                      371.3650   -45.9650   90.0000  top
+R6           10k                   R_1206_3216Metric                                                      336.0075   -59.9350    0.0000  top
+R7           5.1k                  R_1206_3216Metric                                                       64.6300   -46.4700  180.0000  top
+R8           5.1k                  R_1206_3216Metric                                                       70.0600   -46.4700  180.0000  top
+R9           10k                   R_1206_3216Metric                                                      353.6950   -74.6500   90.0000  top
+R10          10k                   R_1206_3216Metric                                                      353.6950   -79.4450   90.0000  top
+RESET        SW_PUSH               SW_TH_Tactile_Omron_B3F-10xx                                           360.7900   -37.6250    0.0000  top
+SW-1.5U-28   KEYSW                 MXOnly-1.5U-Hotswap                                                     56.3050   -93.5100    0.0000  top
+SW-1.5U-41   KEYSW                 MXOnly-1.5U-Hotswap                                                    313.5000   -93.5100    0.0000  top
+SW-1.25U-70  KEYSW                 MXOnly-1.25U-Hotswap                                                    53.9350  -150.6750    0.0000  top
+SW-1.25U-71  KEYSW                 MXOnly-1.25U-Hotswap                                                    77.7500  -150.6700    0.0000  top
+SW-1.25U-72  KEYSW                 MXOnly-1.25U-Hotswap                                                   101.5600  -150.6650    0.0000  top
+SW-1.75U-43  KEYSW                 MXOnly-1.75U-Hotswap                                                    58.6850  -112.5600    0.0000  top
+SW-1.75U-68  KEYSW                 MXOnly-1.75U-Hotswap                                                   292.0550  -131.6100    0.0000  top
+SW-1U-0      KEYSW                 MXOnly-1U-Hotswap                                                       51.5400   -50.7000    0.0000  top
+SW-1U-1      KEYSW                 MXOnly-1U-Hotswap                                                       83.2800   -50.6950    0.0000  top
+SW-1U-2      KEYSW                 MXOnly-1U-Hotswap                                                      102.3300   -50.6900    0.0000  top
+SW-1U-3      KEYSW                 MXOnly-1U-Hotswap                                                      121.3800   -50.6900    0.0000  top
+SW-1U-4      KEYSW                 MXOnly-1U-Hotswap                                                      140.4350   -50.6950    0.0000  top
+SW-1U-5      KEYSW                 MXOnly-1U-Hotswap                                                      172.1850   -50.6950    0.0000  top
+SW-1U-6      KEYSW                 MXOnly-1U-Hotswap                                                      191.2450   -50.7000    0.0000  top
+SW-1U-7      KEYSW                 MXOnly-1U-Hotswap                                                      210.3000   -50.7000    0.0000  top
+SW-1U-8      KEYSW                 MXOnly-1U-Hotswap                                                      229.3200   -50.7000    0.0000  top
+SW-1U-9      KEYSW                 MXOnly-1U-Hotswap                                                      261.0900   -50.7000    0.0000  top
+SW-1U-10     KEYSW                 MXOnly-1U-Hotswap                                                      280.1400   -50.7000    0.0000  top
+SW-1U-11     KEYSW                 MXOnly-1U-Hotswap                                                      299.1900   -50.7050    0.0000  top
+SW-1U-12     KEYSW                 MXOnly-1U-Hotswap                                                      318.2450   -50.7050    0.0000  top
+SW-1U-13     KEYSW                 MXOnly-1U-Hotswap                                                       51.5450   -74.4650    0.0000  top
+SW-1U-14     KEYSW                 MXOnly-1U-Hotswap                                                       70.5900   -74.4650    0.0000  top
+SW-1U-15     KEYSW                 MXOnly-1U-Hotswap                                                       89.6700   -74.4750    0.0000  top
+SW-1U-16     KEYSW                 MXOnly-1U-Hotswap                                                      108.7200   -74.4850    0.0000  top
+SW-1U-17     KEYSW                 MXOnly-1U-Hotswap                                                      127.7650   -74.4800    0.0000  top
+SW-1U-18     KEYSW                 MXOnly-1U-Hotswap                                                      146.8200   -74.4800    0.0000  top
+SW-1U-19     KEYSW                 MXOnly-1U-Hotswap                                                      165.8750   -74.4800    0.0000  top
+SW-1U-20     KEYSW                 MXOnly-1U-Hotswap                                                      184.9250   -74.4700    0.0000  top
+SW-1U-21     KEYSW                 MXOnly-1U-Hotswap                                                      203.9900   -74.4700    0.0000  top
+SW-1U-22     KEYSW                 MXOnly-1U-Hotswap                                                      223.0400   -74.4650    0.0000  top
+SW-1U-23     KEYSW                 MXOnly-1U-Hotswap                                                      242.0900   -74.4650    0.0000  top
+SW-1U-24     KEYSW                 MXOnly-1U-Hotswap                                                      261.1250   -74.4650    0.0000  top
+SW-1U-25     KEYSW                 MXOnly-1U-Hotswap                                                      280.1650   -74.4650    0.0000  top
+SW-1U-27     KEYSW                 MXOnly-1U-Hotswap                                                      342.2900   -74.4650    0.0000  top
+SW-1U-29     KEYSW                 MXOnly-1U-Hotswap                                                       80.1250   -93.5050    0.0000  top
+SW-1U-30     KEYSW                 MXOnly-1U-Hotswap                                                       99.1850   -93.5250    0.0000  top
+SW-1U-31     KEYSW                 MXOnly-1U-Hotswap                                                      118.2400   -93.5250    0.0000  top
+SW-1U-32     KEYSW                 MXOnly-1U-Hotswap                                                      137.2950   -93.5250    0.0000  top
+SW-1U-33     KEYSW                 MXOnly-1U-Hotswap                                                      156.3450   -93.5300    0.0000  top
+SW-1U-34     KEYSW                 MXOnly-1U-Hotswap                                                      175.4050   -93.5250    0.0000  top
+SW-1U-35     KEYSW                 MXOnly-1U-Hotswap                                                      194.4600   -93.5200    0.0000  top
+SW-1U-36     KEYSW                 MXOnly-1U-Hotswap                                                      213.5100   -93.5150    0.0000  top
+SW-1U-37     KEYSW                 MXOnly-1U-Hotswap                                                      232.5700   -93.5150    0.0000  top
+SW-1U-38     KEYSW                 MXOnly-1U-Hotswap                                                      251.6200   -93.5150    0.0000  top
+SW-1U-39     KEYSW                 MXOnly-1U-Hotswap                                                      270.6550   -93.5150    0.0000  top
+SW-1U-40     KEYSW                 MXOnly-1U-Hotswap                                                      289.6950   -93.5150    0.0000  top
+SW-1U-42     KEYSW                 MXOnly-1U-Hotswap                                                      342.2900   -93.5150    0.0000  top
+SW-1U-44     KEYSW                 MXOnly-1U-Hotswap                                                       84.8800  -112.5550    0.0000  top
+SW-1U-45     KEYSW                 MXOnly-1U-Hotswap                                                      103.9400  -112.5750    0.0000  top
+SW-1U-46     KEYSW                 MXOnly-1U-Hotswap                                                      122.9900  -112.5750    0.0000  top
+SW-1U-47     KEYSW                 MXOnly-1U-Hotswap                                                      142.0450  -112.5800    0.0000  top
+SW-1U-48     KEYSW                 MXOnly-1U-Hotswap                                                      161.1000  -112.5850    0.0000  top
+SW-1U-49     KEYSW                 MXOnly-1U-Hotswap                                                      180.1450  -112.5650    0.0000  top
+SW-1U-50     KEYSW                 MXOnly-1U-Hotswap                                                      199.1950  -112.5650    0.0000  top
+SW-1U-51     KEYSW                 MXOnly-1U-Hotswap                                                      218.2500  -112.5650    0.0000  top
+SW-1U-52     KEYSW                 MXOnly-1U-Hotswap                                                      237.2950  -112.5600    0.0000  top
+SW-1U-53     KEYSW                 MXOnly-1U-Hotswap                                                      256.3450  -112.5550    0.0000  top
+SW-1U-54     KEYSW                 MXOnly-1U-Hotswap                                                      275.3900  -112.5650    0.0000  top
+SW-1U-56     KEYSW                 MXOnly-1U-Hotswap                                                      342.2950  -112.5650    0.0000  top
+SW-1U-58     KEYSW                 MXOnly-1U-Hotswap                                                       94.4100  -131.6100    0.0000  top
+SW-1U-59     KEYSW                 MXOnly-1U-Hotswap                                                      113.4750  -131.6100    0.0000  top
+SW-1U-60     KEYSW                 MXOnly-1U-Hotswap                                                      132.5250  -131.6250    0.0000  top
+SW-1U-61     KEYSW                 MXOnly-1U-Hotswap                                                      151.5600  -131.6250    0.0000  top
+SW-1U-62     KEYSW                 MXOnly-1U-Hotswap                                                      170.6150  -131.6150    0.0000  top
+SW-1U-63     KEYSW                 MXOnly-1U-Hotswap                                                      189.6650  -131.6100    0.0000  top
+SW-1U-64     KEYSW                 MXOnly-1U-Hotswap                                                      208.7150  -131.6150    0.0000  top
+SW-1U-65     KEYSW                 MXOnly-1U-Hotswap                                                      227.7550  -131.6100    0.0000  top
+SW-1U-66     KEYSW                 MXOnly-1U-Hotswap                                                      246.8000  -131.6100    0.0000  top
+SW-1U-67     KEYSW                 MXOnly-1U-Hotswap                                                      265.8550  -131.6150    0.0000  top
+SW-1U-74     KEYSW                 MXOnly-1U-Hotswap                                                      242.0400  -150.6600    0.0000  top
+SW-1U-75     KEYSW                 MXOnly-1U-Hotswap                                                      261.0900  -150.6600    0.0000  top
+SW-1U-76     KEYSW                 MXOnly-1U-Hotswap                                                      280.1400  -150.6600    0.0000  top
+SW-1U-77     KEYSW                 MXOnly-1U-Hotswap                                                      301.7000  -153.1600    0.0000  top
+SW-1U-78     KEYSW                 MXOnly-1U-Hotswap                                                      320.7470  -153.1600    0.0000  top
+SW-1U-79     KEYSW                 MXOnly-1U-Hotswap                                                      339.8020  -153.1600    0.0000  top
+SW-1U-80     KEYSW                 MXOnly-1U-Hotswap                                                      342.2950  -131.6100    0.0000  top
+SW-2.25U-55  KEYSW                 MXOnly-2.25U-Hotswap                                                   306.3480  -112.5600    0.0000  top
+SW-2.25U-57  KEYSW                 MXOnly-2.25U-Hotswap                                                    63.4530  -131.6200    0.0000  top
+SW-2U-26     KEYSW                 MXOnly-2U-Hotswap                                                      308.7370   -74.4550    0.0000  top
+SW-6.25U-73  KEYSW                 MXOnly-6.25U-Hotswap                                                   172.9849  -150.6650    0.0000  top
+SW-69        KEYSW                 MXOnly-1U-Hotswap                                                      320.7420  -134.1050    0.0000  top
+USB1         HRO-TYPE-C-31-M-12    USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A                                 67.2850   -38.3950  180.0000  top
+VOL          RotaryEncoder_Switch  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles   334.8050   -48.2550    0.0000  top
+## End
